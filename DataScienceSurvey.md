@@ -1682,6 +1682,50 @@ Neural network learning to compress and reconstruct input; uses dimensionality r
 
 ---
 
+---
+
+## Graduate Programs in Data Science Subdisciplines
+
+The following sections outline specialized graduate-level programs in various data science subdisciplines that apply to AI. Each subdiscipline has a dedicated document with detailed course information, real-world applications, and university details.
+
+### 1. [Natural Language Processing (NLP)](NaturalLanguageProcessing.md)
+Focus on computational linguistics, text analysis, sentiment analysis, machine translation, and conversational AI. Programs train students to build systems that understand and generate human language.
+
+### 2. [Computer Vision](ComputerVision.md)
+Study image recognition, object detection, video analysis, and visual understanding systems. Applications include autonomous vehicles, medical imaging, and augmented reality.
+
+### 3. [Deep Learning & Neural Networks](DeepLearning.md)
+Advanced study of multi-layer neural network architectures including CNNs, RNNs, transformers, and attention mechanisms for complex pattern recognition tasks.
+
+### 4. [Reinforcement Learning & Robotics](ReinforcementLearningRobotics.md)
+Explore decision-making systems, autonomous agents, robot control, and AI systems that learn through interaction with environments.
+
+### 5. [Business Analytics & Predictive Modeling](BusinessAnalytics.md)
+Apply statistical and machine learning techniques to business problems including forecasting, customer analytics, and data-driven decision making.
+
+### 6. [Statistical Machine Learning](StatisticalMachineLearning.md)
+Foundation in probabilistic models, statistical inference, and mathematical frameworks underlying machine learning algorithms.
+
+### 7. [Big Data Engineering](BigDataEngineering.md)
+Design and implement large-scale data processing systems, distributed computing architectures, and data pipeline infrastructure.
+
+### 8. [Healthcare Data Science & Biomedical Informatics](HealthcareDataScience.md)
+Apply data science to healthcare challenges including clinical decision support, drug discovery, genomics, and health outcomes research.
+
+### 9. [Generative AI & Large Language Models](GenerativeAI.md)
+Study cutting-edge generative models, transformer architectures, prompt engineering, and responsible AI deployment.
+
+### 10. [Quantitative Finance & Time Series](QuantitativeFinance.md)
+Apply computational methods to financial modeling, algorithmic trading, risk management, and economic forecasting.
+
+### 11. [Bayesian Statistics & Probabilistic Modeling](BayesianStatistics.md)
+Master probabilistic reasoning, uncertainty quantification, and Bayesian inference methods for complex modeling scenarios.
+
+### 12. [MLOps & Machine Learning Engineering](MLOps.md)
+Learn to deploy, monitor, and maintain machine learning systems in production environments with CI/CD pipelines and scalable infrastructure.
+
+---
+
 ## References
 
 ### Original Document Credits
