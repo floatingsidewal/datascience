@@ -69,6 +69,7 @@ All tools are Microsoft-based for enterprise compatibility:
 | 6 | [Supervised Learning Concepts](Week06/README.md) | Training/test splits, overfitting, validation | How AI models learn from tickets |
 | 7 | [Clustering & Categorization](Week07/README.md) | K-means, similarity, topic modeling | Auto-categorizing support issues |
 | 8 | [Model Evaluation Deep Dive](Week08/README.md) | ROC/AUC, cross-validation, bias detection | Auditing AI for fairness |
+| 8-Alt | [Real-World AI Eval & Chatbot Testing](Week08-Alt/README.md) | Task-based evals, simulated chats, LLM-as-Judge | Testing chatbots before deployment |
 | 9 | [AI Systems in Production](Week09/README.md) | MLOps basics, monitoring, feedback loops | Maintaining AI quality over time |
 | 10 | [Capstone & Future Learning](Week10/README.md) | End-to-end project, continued learning paths | Building your AI evaluation framework |
 
@@ -268,6 +269,32 @@ All tools are Microsoft-based for enterprise compatibility:
 
 ---
 
+### Week 8 (Alternate): Real-World AI Evaluation & Chatbot Testing
+
+**Theme**: Modern practices for evaluating AI in production
+
+> This alternate module can be taken instead of or in addition to the standard Week 8. While Week 8 covers statistical evaluation metrics, this track covers operational evaluation — how to test whether AI systems actually work for real users.
+
+**Skills Learned**:
+- Real-world AI benchmarks (Remote Labor Index methodology)
+- Task-based evaluation design
+- Simulated user personas for chatbot testing
+- Multi-turn conversation evaluation
+- LLM-as-a-Judge for scoring at scale
+
+**AI Application**:
+- Testing chatbots with simulated conversations before deployment
+- Building continuous evaluation pipelines for support AI
+- Designing task libraries and scoring rubrics
+
+**Lab Project**: Build a chatbot evaluation suite with task library, personas, simulated conversations, and scoring dashboard
+
+**Reference**: [GenerativeAI.md](../GenerativeAI.md); [Scale AI RLI](https://scale.com/leaderboard/rli); [DeepEval](https://deepeval.com/docs/conversation-simulator)
+
+[→ Week 8-Alt Materials](Week08-Alt/README.md)
+
+---
+
 ### Week 9: AI Systems in Production
 
 **Theme**: Keeping AI working well over time
@@ -329,6 +356,7 @@ All tools are Microsoft-based for enterprise compatibility:
 | ML concepts | Week 6 | Foundational |
 | Clustering | Week 7 | Foundational |
 | Model evaluation | Week 8 | Strong |
+| AI/chatbot operational testing | Week 8-Alt | Strong |
 | MLOps awareness | Week 9 | Awareness |
 | End-to-end analysis | Week 10 | Practical |
 
