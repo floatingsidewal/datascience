@@ -30,6 +30,10 @@ Each week follows a consistent structure:
 
 ---
 
+> **Not sure if this course is for you?** Start with [Week 0: AI & LLMs — A Working Survey](Week00/README.md). It's a standalone 2-3 hour tour of how modern AI actually works, with an honest decision rubric at the end that will route you to this course, to [How Tuning Works](How-Tuning-Works/README.md), or to something else entirely. No prerequisites beyond curiosity.
+
+---
+
 ## Prerequisites
 
 ### Required Background
